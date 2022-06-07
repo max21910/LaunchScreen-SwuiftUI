@@ -5,8 +5,10 @@
 
 
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](http://url/to/img.pn](https://github.com/max21910/LaunchScreen-SwuiftUI/blob/main/image%20(only%20for%20github)/RocketSim_Recording_iPhone_13_2022-06-07_22.15.59.gif?raw=true)
-![This is an image](http://url/to/img.pn](https://github.com/max21910/LaunchScreen-SwuiftUI/blob/main/image%20(only%20for%20github)/RocketSim_Recording_iPhone_13_2022-06-07_22.15.59.gif?raw=true)
+![This is an image](/assets/1.gif)
+![This is an image](/assets/2.png)
+![This is an image](/assets/3.png)
+![This is an image](/assets/4.png)
 
 An simple exemple of a launching screen made of 100% using SwuiftUI
 More to come .....
