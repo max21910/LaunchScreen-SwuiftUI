@@ -17,10 +17,10 @@ no package depedencie needed.
 ## Free to use ?
 yes you can do what you want with this project 
 ## Version
-V1.3 add comment to the code and fix older model support
-V1.2 fix compilation bug 
-V1.1 fix bug 
-V1.0 initial release
+V1.3 add comment to the code and fix older model support. 
+V1.2 fix compilation bug.   
+V1.1 fix bug.   
+V1.0 initial release. 
 ## Image:
 ![This is an image](/assets/1.gif)
 ![This is an image](/assets/2.png)
