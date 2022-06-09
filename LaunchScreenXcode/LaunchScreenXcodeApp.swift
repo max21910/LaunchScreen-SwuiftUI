@@ -11,7 +11,7 @@ import SwiftUI
 struct LaunchScreenXcodeApp: App {
     var body: some Scene {
         WindowGroup {
-            Prelaunch()
+            Prelaunch()//launch the app Directly to the Launch screen
         }
     }
 }
